@@ -26,30 +26,51 @@ This project delivers comprehensive sales, margin, and customer analytics design
 The Power BI report is structured into multiple dedicated analytical views:
 1. **Sales & Revenue Report:** High-level executive overview tracking Revenue, COGS, and Margin with Year-over-Year (YoY) variance.
 2. **Margin Report:** Detailed profitability breakdown across product categories, gender, and geographic continents.
-3. **KPI Calculations:** Advanced measures including YTD, QTD, 3-Month Rolling Averages, and PY comparisons.
-4. **Ranking & Contribution:** ABC/XYZ and Contributory ranking metrics measuring product and brand share.
+3. **Detail Report:** Granular breakdown tables with interactive filters by Country, Brand, and Top N products.
+4. **KPI & Window Functions:** Advanced time-intelligence calculations, YTD/QTD, 3-month rolling averages, and window rankings.
 5. **Customer Lifespan & Retention:** Cohort and lifecycle tracking analyzing new vs. loyal customer contribution over time.
-6. **Quarterly Revenue Distribution:** Multi-year breakdown highlighting quarterly performance shifts.
 
 ---
 
 ## 💡 Advanced DAX & Calculations
 Examples of complex measures implemented in this solution:
 * **Time Intelligence:** Dynamic previous year and moving averages.
-* **Ranking & Window Functions:** Utilizing advanced DAX/SQL patterns for running totals and ranking dynamics.
+* **Ranking & Window Functions:** Utilizing advanced DAX patterns for running totals, rank, and contribution percentages.
 * **Matrix Visual Formatting:** Dynamic measure switching and conditional formatting layers.
 
 ---
 
-## 📸 Report Preview
+## 📸 Report Preview & Galleries
 
+### 1. Main Dashboards & Model
 | Sales Overview | Margin Breakdown |
 | :---: | :---: |
-| <img src="sales_report.jpg" width="100%"> | <img src="margin_report.jpg" width="100%"> |
+| ![Sales Report](sales_report.jpg) | ![Margin Report](margin_report.jpg) |
 
 | Data Model Schema | Customer Lifespan |
 | :---: | :---: |
-| <img src="data_model.jpg" width="100%"> | <img src="customer_lifespan.jpg" width="100%"> |
+| ![Data Model](data_model.jpg) | ![Customer Lifespan](customer_lifespan.jpg) |
+
+### 2. Advanced Analytics & Tables
+| Detail Report | Window RT Report |
+| :---: | :---: |
+| ![Detail Report](detail_report.jpg) | ![Window RT Report](window_rt_report.jpg) |
+
+| Advanced DAX Matrix Calculation | Advanced Time Intelligence Matrix |
+| :---: | :---: |
+| ![Advanced DAX](advanced_dax_matrix_calculation.jpg) | ![Advanced Time Intelligence](advanced_time_intelligence_matrix.jpg) |
+
+| Pareto Analytics | Yearly & Quarterly Report |
+| :---: | :---: |
+| ![Pareto Analytics](Pareto_Analytics.jpg) | ![Yearly Quarterly Report](yearly_quarterly_report.jpg) |
+
+| Previous 6 Months Trend | Previous 6 Months Over Selection |
+| :---: | :---: |
+| ![Prev 6 Months Trend](prev_6months_trend.jpg) | ![Prev 6 Months Selection](prev_6months_over_selection.jpg) |
+
+| Window Trolling 6M |
+| :---: |
+| ![Window Trolling](window_trolling_6M.jpg) |
 
 ---
 
