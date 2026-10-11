@@ -14,33 +14,34 @@ This project delivers comprehensive sales, margin, and customer analytics design
 ## 🏗️ Data Architecture & Modeling
 * **Star & Galaxy Schema Design:** The data model is optimized for analytical performance, featuring a central fact table (`fact_sales`) connected to clean, conformed dimension tables:
   * `dim_customer` (Customer demographics, geography, and lifecycle segmentation)
-  * `dim_product` & `product_name` (Product hierarchies and attributes)
+  * `dim_product` (Product hierarchies and attributes)
   * `dim_store` (Store details and metrics)
-  * `dim_date` & `prevouse_date` (Time-intelligence tables)
+  * `dim_date` (Time-intelligence tables)
 * **Relationships:** Enforced proper one-to-many (`1:*`) relationships with correct filter propagation directions to ensure accurate aggregations.
 
 ---
 
 ## 📈 Key Features & Report Pages
 The Power BI report is structured into multiple dedicated analytical views:
-1. **Sales & Revenue Report:** High-level executive overview tracking Revenue, COGS, and Margin with Year-over-Year (YoY) variance[cite: 5].
-2. **Margin Report:** Detailed profitability breakdown across product categories, gender, and geographic continents[cite: 4].
-3. **KPI Calculations:** Advanced measures including YTD, QTD, 3-Month Rolling Averages, and PY comparisons[cite: 9].
-4. **Ranking & Contribution:** ABC/XYZ and Contributory ranking metrics measuring product and brand share[cite: 8].
-5. **Customer Lifespan & Retention:** Cohort and lifecycle tracking analysing new vs. loyal customer contribution over time[cite: 7].
-6. **Quarterly Revenue Distribution:** Multi-year breakdown highlighting quarterly performance shifts[cite: 6].
+1. **Sales & Revenue Report:** High-level executive overview tracking Revenue, COGS, and Margin with Year-over-Year (YoY) variance.
+2. **Margin Report:** Detailed profitability breakdown across product categories, gender, and geographic continents.
+3. **KPI Calculations:** Advanced measures including YTD, QTD, 3-Month Rolling Averages, and PY comparisons.
+4. **Ranking & Contribution:** ABC/XYZ and Contributory ranking metrics measuring product and brand share.
+5. **Customer Lifespan & Retention:** Cohort and lifecycle tracking analyzing new vs. loyal customer contribution over time.
+6. **Quarterly Revenue Distribution:** Multi-year breakdown highlighting quarterly performance shifts.
 
 ---
 
 ## 💡 Advanced DAX & Calculations
 Examples of complex measures implemented in this solution:
 * **Time Intelligence:** Dynamic previous year and moving averages.
-* **Ranking & Window Functions:** Utilizing advanced DAX/SQL patterns for running totals and ranking dynamics[cite: 10].
+* **Ranking & Window Functions:** Utilizing advanced DAX/SQL patterns for running totals and ranking dynamics.
 * **Matrix Visual Formatting:** Dynamic measure switching and conditional formatting layers.
 
 ---
 
 ## 📸 Report Preview
+
 | Sales Overview | Margin Breakdown |
 | :---: | :---: |
 | ![Sales Report](sales_report.jpg) | ![Margin Report](margin_report.jpg) |
