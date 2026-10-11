@@ -1,5 +1,6 @@
 # Contoso-PowerBi-Portfolio-Project
 Advanced Power Sales &amp; Customer Analytics Using a Galaxy Schema And Dax Time Intellegence
+
 # 📊 Contoso Sales & Business Intelligence Portfolio Project
 
 An enterprise-level end-to-end Business Intelligence solution built using **Power BI**, featuring advanced **DAX modeling**, complex calculations, and a robust star schema data architecture based on the Contoso dataset.
@@ -44,11 +45,11 @@ Examples of complex measures implemented in this solution:
 
 | Sales Overview | Margin Breakdown |
 | :---: | :---: |
-| ![Sales Report](sales_report.jpg) | ![Margin Report](margin_report.jpg) |
+| <img src="sales_report.jpg" width="100%"> | <img src="margin_report.jpg" width="100%"> |
 
 | Data Model Schema | Customer Lifespan |
 | :---: | :---: |
-| ![Data Model](data_model.jpg) | ![Customer Lifespan](customer_lifespan.jpg) |
+| <img src="data_model.jpg" width="100%"> | <img src="customer_lifespan.jpg" width="100%"> |
 
 ---
 
