@@ -43,11 +43,11 @@ Examples of complex measures implemented in this solution:
 ## 📸 Report Preview
 | Sales Overview | Margin Breakdown |
 | :---: | :---: |
-| ![Sales Report](screenshots/sales_report.jpg) | ![Margin Report](screenshots/margin_report.jpg) |
+| ![Sales Report](sales_report.jpg) | ![Margin Report](margin_report.jpg) |
 
 | Data Model Schema | Customer Lifespan |
 | :---: | :---: |
-| ![Data Model](screenshots/data_model.jpg) | ![Customer Lifespan](screenshots/customer_lifespan.jpg) |
+| ![Data Model](data_model.jpg) | ![Customer Lifespan](customer_lifespan.jpg) |
 
 ---
 
