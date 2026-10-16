@@ -42,7 +42,7 @@ This project delivers comprehensive sales, margin, and customer analytics design
 
 ### 1. Sales & Margin Dashboards
 **Sales Overview Report:**
-![Sales Report](https://raw.githubusercontent.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/refs/heads/main/%E2%80%8F%E2%80%8Fsales_report.jpg)
+![Sales Report](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/sales_report.jpg.png)
 
 **Margin Breakdown Report:**
 ![Margin Report](https://raw.githubusercontent.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/refs/heads/main/%E2%80%8F%E2%80%8Fmargin_report.jpg)
