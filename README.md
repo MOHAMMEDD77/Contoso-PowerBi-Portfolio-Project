@@ -45,42 +45,42 @@ This project delivers comprehensive sales, margin, and customer analytics design
 ![Sales Report](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/sales_report.jpg.png)
 
 **Margin Breakdown Report:**
-![Margin Report](https://raw.githubusercontent.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/refs/heads/main/%E2%80%8F%E2%80%8Fmargin_report.jpg)
+![Margin Report](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/margin_report.jpg.png)
 
 ### 2. Data Model & Customers
 **Data Model Schema:**
-![Data Model](https://raw.githubusercontent.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/refs/heads/main/%E2%80%8F%E2%80%8Fdata_model.jpg)
+![Data Model](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/data_model.jpg.png)
 
 **Customer Lifespan & Retention:**
-![Customer Lifespan](https://raw.githubusercontent.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/refs/heads/main/%E2%80%8F%E2%80%8Fcustomer_lifespan.jpg)
+![Customer Lifespan](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/customer_lifespan.jpg.png)
 
 ### 3. Advanced Analytics & Tables
 **Detail Report:**
-![Detail Report](https://raw.githubusercontent.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/refs/heads/main/%E2%80%8F%E2%80%8Fdetail_report.jpg)
+![Detail Report](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/detail_report.jpg.png)
 
 **Window RT Report:**
-![Window RT Report](https://raw.githubusercontent.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/refs/heads/main/%E2%80%8F%E2%80%8Fwindow_rt_report.jpg)
+![Window RT Report](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/window_rt_report.jpg.png)
 
 **Advanced DAX Matrix Calculation:**
-![Advanced DAX](https://raw.githubusercontent.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/refs/heads/main/%E2%80%8F%E2%80%8Fadvanced_dax_matrix_calculation.jpg)
+![Advanced DAX]([https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/advanced_dax_matrix_calculation.jpg.png)
 
 **Advanced Time Intelligence Matrix:**
-![Advanced Time Intelligence](https://raw.githubusercontent.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/refs/heads/main/%E2%80%8F%E2%80%8Fadvanced_time_intelligence_matrix.png)
+![Advanced Time Intelligence](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/%E2%80%8F%E2%80%8Fadvanced_time_intelligence_matrix.png.png)
 
 **Pareto Analytics:**
-![Pareto Analytics](https://raw.githubusercontent.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/refs/heads/main/%E2%80%8F%E2%80%8FPareto_Analytics.jpg)
+![Pareto Analytics](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/Pareto_Analytics.jpg.png)
 
 **Yearly & Quarterly Report:**
-![Yearly Quarterly Report](https://raw.githubusercontent.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/refs/heads/main/%E2%80%8F%E2%80%8Fyearly_quartly_report.jpg)
+![Yearly Quarterly Report](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/%E2%80%8F%E2%80%8Fyearly_quartly_report.jpg.png)
 
 **Previous 6 Months Trend:**
-![Prev 6 Months Trend](https://raw.githubusercontent.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/refs/heads/main/%E2%80%8F%E2%80%8Fprev_6months_trend.jpg)
+![Prev 6 Months Trend](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/%E2%80%8F%E2%80%8Fprev_6months_trend.jpg.png)
 
 **Previous 6 Months Over Selection:**
-![Prev 6 Months Selection](https://raw.githubusercontent.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/refs/heads/main/%E2%80%8F%E2%80%8Fprev_6months_over_selection.jpg)
+![Prev 6 Months Selection](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/%E2%80%8F%E2%80%8Fprev_6months_over_selection.jpg.png)
 
 **Window Trolling 6M:**
-![Window Trolling](https://raw.githubusercontent.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/refs/heads/main/%E2%80%8F%E2%80%8Fwindow_trolling_6M.JPG)
+![Window Trolling](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/window_trolling_6M.JPG.png)
 
 ---
 
