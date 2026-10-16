@@ -62,7 +62,7 @@ This project delivers comprehensive sales, margin, and customer analytics design
 ![Window RT Report](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/window_rt_report.jpg.png)
 
 **Advanced DAX Matrix Calculation:**
-![Advanced DAX]([https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/advanced_dax_matrix_calculation.jpg.png)
+![Advanced DAX](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/advanced_dax_matrix_calculation.jpg.png)
 
 **Advanced Time Intelligence Matrix:**
 ![Advanced Time Intelligence](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/%E2%80%8F%E2%80%8Fadvanced_time_intelligence_matrix.png.png)
