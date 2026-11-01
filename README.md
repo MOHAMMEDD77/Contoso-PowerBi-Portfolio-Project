@@ -1,90 +1,39 @@
-# Contoso-PowerBi-Portfolio-Project
-Advanced Power Sales &amp; Customer Analytics Using a Galaxy Schema And Dax Time Intellegence
+# Contoso Sales & Customer Analytics | Power BI
 
-# 📊 Contoso Sales & Business Intelligence Portfolio Project
+An end-to-end Power BI portfolio project exploring sales performance, profitability, product and regional results, and customer behavior using dimensional modeling and advanced DAX calculations.
 
-An enterprise-level end-to-end Business Intelligence solution built using **Power BI**, featuring advanced **DAX modeling**, complex calculations, and a robust star schema data architecture based on the Contoso dataset.
+## Project Overview
 
----
+This project uses the Contoso dataset to build an interactive business intelligence solution. It brings sales and customer information into an analytical model and presents key measures through report pages designed to support business review and decision-making.
 
-## 🚀 Project Overview
-This project delivers comprehensive sales, margin, and customer analytics designed to empower executive decision-making. It tracks key performance indicators (KPIs) over time, evaluates customer lifetime value (CLV), and analyzes regional and categorical performance drivers.
+## Data Model
 
----
+The model uses a star-schema approach with sales as the central fact table and related customer, product, store, and date dimensions.
 
-## 🏗️ Data Architecture & Modeling
-* **Star & Galaxy Schema Design:** The data model is optimized for analytical performance, featuring a central fact table (`fact_sales`) connected to clean, conformed dimension tables:
-  * `dim_customer` (Customer demographics, geography, and lifecycle segmentation)
-  * `dim_product` (Product hierarchies and attributes)
-  * `dim_store` (Store details and metrics)
-  * `dim_date` (Time-intelligence tables)
-* **Relationships:** Enforced proper one-to-many (`1:*`) relationships with correct filter propagation directions to ensure accurate aggregations.
+![Data Model](ScreenShot/data_model.jpg.png)
 
----
+## Analysis & Report Features
 
-## 📈 Key Features & Report Pages
-1. **Sales & Revenue Report:** High-level executive overview tracking Revenue, COGS, and Margin with Year-over-Year (YoY) variance.
-2. **Margin Report:** Detailed profitability breakdown across product categories, gender, and geographic continents.
-3. **Detail Report:** Granular breakdown tables with interactive filters by Country, Brand, and Top N products.
-4. **KPI & Window Functions:** Advanced time-intelligence calculations, YTD/QTD, 3-month rolling averages, and window rankings.
-5. **Customer Lifespan & Retention:** Cohort and lifecycle tracking analyzing new vs. loyal customer contribution over time.
+- **Sales Overview:** Revenue, cost of goods sold, margin, and year-over-year comparisons.
+- **Profitability Analysis:** Margin breakdowns by product category, gender, and geography.
+- **Product Analysis:** Interactive detail views and Top N product analysis.
+- **Customer Analysis:** Customer lifespan, retention, and cohort-style views.
+- **Time Intelligence:** YTD/QTD calculations, prior-period comparisons, and rolling averages.
+- **Advanced Measures:** Running totals, rankings, contribution percentages, and dynamic measure presentation.
 
----
+## Report Previews
 
-## 💡 Advanced DAX & Calculations
-* **Time Intelligence:** Dynamic previous year and moving averages.
-* **Ranking & Window Functions:** Utilizing advanced DAX patterns for running totals, rank, and contribution percentages.
-* **Matrix Visual Formatting:** Dynamic measure switching and conditional formatting layers.
+![Sales Report](ScreenShot/sales_report.jpg.png)
+![Margin Report](ScreenShot/margin_report.jpg.png)
+![Customer Lifespan](ScreenShot/customer_lifespan.jpg.png)
+![Detail Report](ScreenShot/detail_report.jpg.png)
+![Advanced DAX Matrix](ScreenShot/advanced_dax_matrix_calculation.jpg.png)
+![Pareto Analytics](ScreenShot/Pareto_Analytics.jpg.png)
 
----
+## Tools & Technologies
 
-## 📸 Report Previews & Visuals
+Microsoft Power BI Desktop · DAX · Power Query · Data Modeling · Star Schema · Business Intelligence · Data Visualization · Git & GitHub
 
-### 1. Sales & Margin Dashboards
-**Sales Overview Report:**
-![Sales Report](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/sales_report.jpg.png)
+## About
 
-**Margin Breakdown Report:**
-![Margin Report](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/margin_report.jpg.png)
-
-### 2. Data Model & Customers
-**Data Model Schema:**
-![Data Model](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/data_model.jpg.png)
-
-**Customer Lifespan & Retention:**
-![Customer Lifespan](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/customer_lifespan.jpg.png)
-
-### 3. Advanced Analytics & Tables
-**Detail Report:**
-![Detail Report](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/detail_report.jpg.png)
-
-**Window RT Report:**
-![Window RT Report](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/window_rt_report.jpg.png)
-
-**Advanced DAX Matrix Calculation:**
-![Advanced DAX](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/advanced_dax_matrix_calculation.jpg.png)
-
-**Advanced Time Intelligence Matrix:**
-![Advanced Time Intelligence](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/%E2%80%8F%E2%80%8Fadvanced_time_intelligence_matrix.png.png)
-
-**Pareto Analytics:**
-![Pareto Analytics](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/Pareto_Analytics.jpg.png)
-
-**Yearly & Quarterly Report:**
-![Yearly Quarterly Report](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/%E2%80%8F%E2%80%8Fyearly_quartly_report.jpg.png)
-
-**Previous 6 Months Trend:**
-![Prev 6 Months Trend](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/%E2%80%8F%E2%80%8Fprev_6months_trend.jpg.png)
-
-**Previous 6 Months Over Selection:**
-![Prev 6 Months Selection](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/%E2%80%8F%E2%80%8Fprev_6months_over_selection.jpg.png)
-
-**Window Trolling 6M:**
-![Window Trolling](https://github.com/MOHAMMEDD77/Contoso-PowerBi-Portfolio-Project/blob/main/ScreenShot/window_trolling_6M.JPG.png)
-
----
-
-## 🛠️ Tools & Technologies
-* **Power BI Desktop:** Data modeling, Power Query transformations, and interactive UI design.
-* **DAX:** Custom measure creation and performance optimization.
-* **Git & GitHub:** Version control and professional portfolio presentation.
+Created by **Mohammed Abdo Al Kareem Abalan** as a Power BI business intelligence portfolio project.
